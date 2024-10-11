@@ -20,4 +20,4 @@
 - 公式Document
     - (https://typst.app/docs)[Typst Documentation]
 - 簡単チートシート
--   (https://zenn.dev/yuhi_ut/articles/how2write-typst1)[さらばTex。Typstの文法全集 〜1. マークアップ編〜]
+    -  (https://zenn.dev/yuhi_ut/articles/how2write-typst1)[さらばTex。Typstの文法全集 〜1. マークアップ編〜]
